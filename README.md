@@ -10,7 +10,7 @@ Finding a passion that put together my love for numbers, curiosity, and results 
     Quantative Analysis Tests:
   
   ### Modesto Junior College. Modesto, CA.
-    PrograM experience:
+    Program Experience:
     Quantitative Analysis Tests:
   
 ## Job Experience
