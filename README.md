@@ -7,6 +7,9 @@ Finding a passion that combined my love for numbers, curiosity, and results was 
   ## Technical Skills
   Python(numpy,matplotlib), SPSS, Spreadsheets, Qualtrics, Statistical Analysis, Data Manipulation and Visualization
   
+  ## Soft Skills
+  Team-Collaboration, Written & Verbal Communication, Concise, Grit, Reporting, Inferencing, Researching
+  
   ## Education
   ### California State University, Stanislaus. Turlock, CA.
     Program Experience:
