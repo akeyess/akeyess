@@ -1,4 +1,4 @@
-Hello! I'm Andrew, a developed researcher pursuing a role as an intern or entry-level position. NEW to GitHub, training :)
+Hello! I'm Andrew, a developed researcher pursuing a role as an intern or entry-level position. NEW to GitHub developing status daily :)
 
 # Curriculum Vitae
 ## Quantitative Researcher
