@@ -71,3 +71,27 @@ Discovering a passion that combined my *love for numbers, curiosity, and results
     Entertainment.
     
 ## Job Experience :scroll:
+  ### Amazon. Stockton, CA.
+  ***Flex Associate***, **2022-Present**
+  
+    Program Experience: Python, SPSS, Qualtrics
+    Significance Analysis Tests: Independent Samples T-Test, Pearson's Correlation Coefficient, Regression,
+    Two-Way ANOVA, Turkey Post Hoc
+    IRB Certified Research Experiments: 3
+    IRB Certified Research Proposals: 2
+  
+  ### The Home Depot. Riverbank, CA.
+  ***Lot Associate***, **2020-2022**
+  
+    Program Experience: SPSS, Qualtrics, 
+    Significance Analysis Tests: One-Way ANOVA, T-Tests (One-Sample, Independent-Samples, Paired-Samples)
+    IRB Certified Research Experiments: 1
+    
+  ### Wendy's. Modesto, CA.
+  ***Customer Service***, **2018-2020**
+  
+    Program Experience: SPSS, Qualtrics, 
+    Significance Analysis Tests: One-Way ANOVA, T-Tests (One-Sample, Independent-Samples, Paired-Samples)
+    IRB Certified Research Experiments: 1
+
+
