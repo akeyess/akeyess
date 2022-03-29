@@ -7,6 +7,13 @@ I'm a **Developed researcher** pursuing an *Internship Role* or *Junior/ Entry-L
 ### Current Status 
 I am currently available for employment. Accepting a B.A. in Experimental Psychology at the end of the 2022 spring term. Currently working a flexible job at Amazon in Stockton, CA. Possibility of wide open a schedule with *2 weeks of advanced notice*. :innocent:
 
+## Passions :cupid:
+  Additional Experience: 
+  
+   - Blockchain Technology
+   - Health
+   - Entertainment
+    
 # **Curriculum Vitae**- *Quantitative Researcher*
 Discovering a passion that combined my *love for numbers, curiosity, and results* was a dream to reality. Actively looking to fulfil this dream through a *Data Science* related role (***Data Analytics, Research Analyst, Quantitative Science, Digital Marketing Coordinator***). I hope to add value to a group working towards the same goal ASAP.
 
@@ -64,13 +71,6 @@ Discovering a passion that combined my *love for numbers, curiosity, and results
 
   - Find Studies - [Institutional Research Reports](https://andrewkeyes2.wixsite.com/andrewkeyes/research)
   
-## Passions :cupid:
-  Additional Experience: 
-  
-   - Crypto
-   - Health 
-   - Entertainment.
-    
 ## Job Experience :scroll:
   ### Amazon. Stockton, CA.
   ***Flex Associate***, **2022-Present**
