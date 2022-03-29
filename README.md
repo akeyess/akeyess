@@ -52,6 +52,7 @@ Discovering a passion that combined my *love for numbers, curiosity, and results
     Program Experience: SPSS, Qualtrics, 
     Significance Analysis Tests: One-Way ANOVA, T-Tests (One-Sample, Independent-Samples, Paired-Samples)
     IRB Certified Research Experiments: 1
+[Certified Research Reports](https://andrewkeyes2.wixsite.com/andrewkeyes/research)
 
 ## Personal Projects
   - [Ethereum Mining Report](https://github.com/akeyess/Eth_Mining_Research)
