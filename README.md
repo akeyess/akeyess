@@ -38,7 +38,7 @@ Doscovering a passion that combined my *love for numbers, curiosity, and results
   
   ## Education :school:
   ### California State University, Stanislaus. Turlock, CA.
-  -***2020-2022***
+  ***Bachelor of Arts in Experimental Psychology***, **2020-2022**
   
     Program Experience: Python, SPSS, Qualtrics
     Significance Analysis Tests: Independent Samples T-Test, Pearson's Correlation Coefficient, Regression,
@@ -47,7 +47,7 @@ Doscovering a passion that combined my *love for numbers, curiosity, and results
     IRB Certified Research Proposals: 2
   
   ### Modesto Junior College. Modesto, CA.
-  -***2018-2020***
+  ***Associate of Arts in Psychology***, **2018-2020**
   
     Program Experience: SPSS, Qualtrics, 
     Significance Analysis Tests: One-Way ANOVA, T-Tests (One-Sample, Independent-Samples, Paired-Samples)
@@ -56,16 +56,16 @@ Doscovering a passion that combined my *love for numbers, curiosity, and results
 ## Personal Projects
   - [Ethereum Mining Report](https://github.com/akeyess/Eth_Mining_Research)
   
-  Compares personal revenue from Ethereum miner to the reported average revenue relative to megahash.
+  Compares revenue from personal Ethereum miner to the reported average revenue of Ethereum miners relative to megahash. This study discovered how my miner performs against the network average in terms of revenue. Findings fail to reject the hypotheis: "Personal ETH miner revenue will perform lower overall in comparison to reported average ETH mining revenue".
   
   - Personal Running Research
   
   Future study to investigate if a relationship exists between workout performance and training run pace. In the past I did not respect easy days as much as I should have. As of recent months I have been slowing down easy training days and been feeling stronger when it comes to workout performance. I believe over the past 6 month we will see a slow down in easy running pace to correlate with an increase in workout performance.
   
-## Job Experience
-
-## Passions?
+## Passions
     Additional Experience: 
     Crypto
     Health 
     Entertainment.
+    
+## Job Experience
