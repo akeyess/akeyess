@@ -10,9 +10,12 @@ I am ***Currently Available For Employment***. Accepting **B.A. in Experimental 
 
 ## Passions :cupid:
    - Blockchain Technology
+      - In love and curious about the furture of blockchain use across the world. Daily user of blockchain technology as well as a daily consumer of cryptocurrency media. Extensive knowledge of network protocols, tokenomics, exchanges, CBDCs, stablecoins, and gas fees.
    - Health
+      - I am a huge believer in "Health is Wealth" and "You are what you eat". Living a healthy lifestyle does not have to be a challenge, you can make it fun. I think everyone can live a happier life if they can live a healthier one. I would love to positively impact the health of others using research methods and data science.
    - Entertainment
-
+      - Since a child I've been immersed in the entertainment industry, from TV shows and Gaming, to Social Media and YouTube. I've always found myself looking for a full understanding of what's going on. I would take the time to look through settings just cause I'd be curious.
+      
 ## What I'm Focused On :mag_right:
 
 - Gain Summer Internship/ Entry Position
@@ -26,4 +29,4 @@ I am ***Currently Available For Employment***. Accepting **B.A. in Experimental 
 ```
 Email: andrewkeyes2@gmail.com     Phone: 209-996-4116
 ```
-- [Personal Portfolio Site](https://andrewkeyes2.wixsite.com/andrewkeyes)
+   - [Personal Portfolio Site](https://andrewkeyes2.wixsite.com/andrewkeyes)
