@@ -59,8 +59,12 @@ Doscovering a passion that combined my *love for numbers, curiosity, and results
   Compares personal revenue from Ethereum miner to the reported average revenue relative to megahash.
   
   - Personal Running Research
-  - 
+  Future study to investigate if a relationship exists between workout performance and training run pace. In the past I did not respect easy days as much as I should have. As of recent months I have been slowing down easy training days and been feeling stronger when it comes to workout performance. I believe over the past 6 month we will see a slow down in easy running pace to correlate with an increase in workout performance.
+  
 ## Job Experience
 
 ## Passions?
-    Additional Program Experience:
+    Additional Experience: 
+    Crypto
+    Health 
+    Entertainment.
