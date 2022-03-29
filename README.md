@@ -35,6 +35,15 @@ Discovering a passion that combined my *love for numbers, curiosity, and results
 | ***Time Management*** | Schedule Oriented, Understands Importance of Time
 | ***Responsibility*** | Leader Role, Captain in Research
 | ***Creativity*** | Outside the Box Thinking, Explorer
+
+## Personal Projects :star2:
+  - [Ethereum Mining Report](https://github.com/akeyess/Eth_Mining_Research)
+  
+  Compares revenue from personal Ethereum miner to the reported average revenue of Ethereum miners relative to megahash. This study discovered how my miner performs against the network average in terms of revenue. Findings fail to reject the hypotheis: "Personal ETH miner revenue will perform lower overall in comparison to reported average ETH mining revenue".
+  
+  - Personal Running Research
+  
+  Future study to investigate if a relationship exists between workout performance and training run pace. In the past I did not respect easy days as much as I should have. As of recent months I have been slowing down easy training days and been feeling stronger when it comes to workout performance. I believe over the past 6 month we will see a slow down in easy running pace to correlate with an increase in workout performance.
   
   ## Education :school:
   ### California State University, Stanislaus. Turlock, CA.
@@ -54,15 +63,6 @@ Discovering a passion that combined my *love for numbers, curiosity, and results
     IRB Certified Research Experiments: 1
 
   - Find Studies - [Institutional Research Reports](https://andrewkeyes2.wixsite.com/andrewkeyes/research)
-
-## Personal Projects :star2:
-  - [Ethereum Mining Report](https://github.com/akeyess/Eth_Mining_Research)
-  
-  Compares revenue from personal Ethereum miner to the reported average revenue of Ethereum miners relative to megahash. This study discovered how my miner performs against the network average in terms of revenue. Findings fail to reject the hypotheis: "Personal ETH miner revenue will perform lower overall in comparison to reported average ETH mining revenue".
-  
-  - Personal Running Research
-  
-  Future study to investigate if a relationship exists between workout performance and training run pace. In the past I did not respect easy days as much as I should have. As of recent months I have been slowing down easy training days and been feeling stronger when it comes to workout performance. I believe over the past 6 month we will see a slow down in easy running pace to correlate with an increase in workout performance.
   
 ## Passions :cupid:
   Additional Experience: 
