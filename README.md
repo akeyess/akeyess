@@ -10,7 +10,7 @@ I am ***Currently Available For Employment***. Accepting **B.A. in Experimental 
 
 ## What I'm Focused On :mag_right:
 
-- Gain ***Summer Internship/ Entry Position***
+- Secure a ***Summer Internship/ Entry-Level Position***
 - Finish ***First Personal Project***, then Start Second
 - ***Python*** Workable Knowledge Expansion 
 - Grow My Own ***Running Club***
@@ -30,3 +30,4 @@ I am ***Currently Available For Employment***. Accepting **B.A. in Experimental 
 Email: andrewkeyes2@gmail.com     Phone: 209-996-4116
 ```
    - [Personal Portfolio Site](https://andrewkeyes2.wixsite.com/andrewkeyes)
+   - [Linkedin Account](https://www.linkedin.com/in/andrew-keyes-3a0091226/)
