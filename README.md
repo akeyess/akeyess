@@ -1,6 +1,6 @@
-Hello! My name is ***Andrew Keyes***. Thank you so much for your time! 
+:wave: Hello! My name is ***Andrew Keyes***. Thank you so much for your time! 
 
-I am a **Developed researcher** pursuing an *Internship Role* or *Entry-Level Position* as a ***Quantitative Analyst, Market/ User Researcher, Data Scientist, or Problem Solver***. 
+I'm a **Developed researcher** pursuing an *Internship Role* or *Junior/ Entry-Level Position* as a ***Quantitative Analyst, Market/ User Researcher, Data Scientist, or Problem Solver***. 
 
 > NEW to GitHub developing status daily :)
 
@@ -33,7 +33,7 @@ Doscovering a passion that combined my *love for numbers, curiosity, and results
 | ***Responsibility*** | Leader Role, Captain in Research
 | ***Creativity*** | Outside the Box Thinking, Explorer
   
-  ## Education
+  ## Education:school:
   ### California State University, Stanislaus. Turlock, CA.
     Program Experience: Python, SPSS, Qualtrics
     Quantative Analysis Tests:
