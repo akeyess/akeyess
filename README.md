@@ -18,7 +18,16 @@ Finding a passion that combined my love for numbers, curiosity, and results was 
   - ***Experimental Design*** (ABAB, A/B, Dependent Variable tested by Independent Variable, Control Variables)
   
   ## Soft Skills
-  Team-Collaboration, Written & Verbal Communication, Concise, Grit, Reporting, Inferencing, Researching, Time Management, Responsibility, Creativity
+  - ***Team-Collaboration***
+  - ***Written & Verbal Communication***
+  - ***Concise***
+  - ***Grit***
+  - ***Reporting***
+  - ***Inferencing***
+  - ***Researching***
+  - ***Time Management***
+  - ***Responsibility***
+  - ***Creativity***
   
   ## Education
   ### California State University, Stanislaus. Turlock, CA.
