@@ -5,7 +5,7 @@ I'm a **Developed researcher** pursuing an *Internship Role* or *Junior/ Entry-L
 > NEW to GitHub developing status daily :)
 
 ### Current Status 
-I am currently available for employment. 4th year student accepting a B.A. in Experimental Psychology at the end of the 2022 spring term. Currently working a flexible job at Amazon in Stockton, CA. Possibility of wide open a schedule with 2 weeks of advanced notice. :innocent:
+I am currently available for employment. Accepting a B.A. in Experimental Psychology at the end of the 2022 spring term. Currently working a flexible job at Amazon in Stockton, CA. Possibility of wide open a schedule with *2 weeks of advanced notice*. :innocent:
 
 # **Curriculum Vitae**- *Quantitative Researcher*
 Doscovering a passion that combined my *love for numbers, curiosity, and results* was a dream to reality. Actively looking to fulfil this dream through a *Data Science* related role (***Data Analytics, Research Analyst, Quantitative Science, Digital Marketing Coordinator***). I hope to add value to a group working towards the same goal ASAP.
