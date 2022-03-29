@@ -8,13 +8,18 @@ I'm a **Developed researcher** pursuing an *Internship Role* or *Junior/ Entry-L
 I am ***Currently Available For Employment***. Accepting **B.A. in Experimental Psychology** end of 2022 Spring term. I work at a flexible job right now, availability is up to me. Wide open a schedule possible with *2 weeks advanced notice*. :innocent:
 
 ## Passions :cupid:
-  Additional Experience: 
-  
    - Blockchain Technology
    - Health
    - Entertainment
 
 ## What I'm Focused On 
+
+- Gain Summer Internship/ Entry Position
+- Finish First Personal Project, then Start Second
+- Expand Workable Knowledge in Python
+- Grow my own Running Club
+- 
+
 
 ## Contact Info
 
