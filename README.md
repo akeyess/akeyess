@@ -1,4 +1,5 @@
-:wave: Hello! My name is ***Andrew Keyes***. Thank you so much for your time! Here's some info ABOUTME. Find more on my GitHub [Resume / Cirriculum Vitae](https://github.com/akeyess/Cirriculum_Vitae)
+## :wave: Hello!
+My name is ***Andrew Keyes***. Here's some info ABOUTME. Find more on my [GitHub Resume / Cirriculum Vitae](https://github.com/akeyess/Cirriculum_Vitae) Thank you so much for your time! 
 
 I'm a **Developed researcher** pursuing an *Internship Role* or *Junior/ Entry-Level Position* as a ***Quantitative Analyst, Market/ User Researcher, Data Scientist, or Problem Solver***. 
 
@@ -12,15 +13,17 @@ I am ***Currently Available For Employment***. Accepting **B.A. in Experimental 
    - Health
    - Entertainment
 
-## What I'm Focused On 
+## What I'm Focused On :mag_right:
 
 - Gain Summer Internship/ Entry Position
 - Finish First Personal Project, then Start Second
 - Expand Workable Knowledge in Python
-- Grow my own Running Club
-- 
+- Grow My Own Running Club
+- Smart Investments
 
+## Contact Info :mailbox:
 
-## Contact Info
-
-
+```
+Email: andrewkeyes2@gmail.com     Phone: 209-996-4116
+```
+[Personal Portfolio Site](https://andrewkeyes2.wixsite.com/andrewkeyes)
