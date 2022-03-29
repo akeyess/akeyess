@@ -52,7 +52,14 @@ Doscovering a passion that combined my *love for numbers, curiosity, and results
     Program Experience: SPSS, Qualtrics, 
     Significance Analysis Tests: One-Way ANOVA, T-Tests (One-Sample, Independent-Samples, Paired-Samples)
     IRB Certified Research Experiments: 1
+
+## Personal Projects
+  - [Ethereum Mining Report](https://github.com/akeyess/Eth_Mining_Research)
   
+  Compares personal revenue from Ethereum miner to the reported average revenue relative to megahash.
+  
+  - Personal Running Research
+  - 
 ## Job Experience
 
 ## Passions?
