@@ -10,10 +10,10 @@ I am ***Currently Available For Employment***. Accepting **B.A. in Experimental 
 
 ## What I'm Focused On :mag_right:
 
-- ***Gain Summer Internship/ Entry Position
-- ***Finish First Personal Project, then Start Second
-- ***Expand Workable Knowledge in Python
-- ***Grow My Own Running Club
+- ***Gain Summer Internship/ Entry Position***
+- ***Finish First Personal Project, then Start Second***
+- ***Expand Workable Knowledge in Python***
+- ***Grow My Own Running Club***
 - ***Smart Investments***
 
 ## Passions :cupid:
