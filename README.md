@@ -6,7 +6,14 @@ I'm a **Developed researcher** pursuing an *Internship Role* or *Junior/ Entry-L
 
 ### Current Status 
 I am ***Currently Available For Employment***. Accepting **B.A. in Experimental Psychology** end of 2022 Spring term. I work at a flexible job right now, availability is up to me. Wide open a schedule possible with *2 weeks advanced notice*. :innocent:
-    
+
+## Passions :cupid:
+  Additional Experience: 
+  
+   - Blockchain Technology
+   - Health
+   - Entertainment
+  
 # **Curriculum Vitae**- *Quantitative Researcher*
 Discovering a passion that combined my *love for numbers, curiosity, and results* was a dream to reality. Actively looking to fulfil this dream through a *Data Science* related role (***Data Analytics, Research Analyst, Quantitative Science, Digital Marketing Coordinator***). I hope to add value to a group working towards the same goal ASAP.
 
@@ -45,13 +52,6 @@ Discovering a passion that combined my *love for numbers, curiosity, and results
   
   Future study to investigate if a relationship exists between workout performance and training run pace. In the past I did not respect easy days as much as I should have. As of recent months I have been slowing down easy training days and been feeling stronger when it comes to workout performance. I believe over the past 6 month we will see a slow down in easy running pace to correlate with an increase in workout performance.
 
-## Passions :cupid:
-  Additional Experience: 
-  
-   - Blockchain Technology
-   - Health
-   - Entertainment
-  
   ## Education :school:
   ### California State University, Stanislaus. Turlock, CA.
   ***Bachelor of Arts in Experimental Psychology***, **2020-2022**
