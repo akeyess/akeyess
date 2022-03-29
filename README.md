@@ -55,7 +55,7 @@ Discovering a passion that combined my *love for numbers, curiosity, and results
 
   - Find Studies - [Institutional Research Reports](https://andrewkeyes2.wixsite.com/andrewkeyes/research)
 
-## Personal Projects
+## Personal Projects :star2:
   - [Ethereum Mining Report](https://github.com/akeyess/Eth_Mining_Research)
   
   Compares revenue from personal Ethereum miner to the reported average revenue of Ethereum miners relative to megahash. This study discovered how my miner performs against the network average in terms of revenue. Findings fail to reject the hypotheis: "Personal ETH miner revenue will perform lower overall in comparison to reported average ETH mining revenue".
@@ -64,10 +64,10 @@ Discovering a passion that combined my *love for numbers, curiosity, and results
   
   Future study to investigate if a relationship exists between workout performance and training run pace. In the past I did not respect easy days as much as I should have. As of recent months I have been slowing down easy training days and been feeling stronger when it comes to workout performance. I believe over the past 6 month we will see a slow down in easy running pace to correlate with an increase in workout performance.
   
-## Passions
+## Passions :cupid:
     Additional Experience: 
     Crypto
     Health 
     Entertainment.
     
-## Job Experience
+## Job Experience :scroll:
