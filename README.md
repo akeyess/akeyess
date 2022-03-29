@@ -4,8 +4,8 @@ I'm a **Developed researcher** pursuing an *Internship Role* or *Junior/ Entry-L
 
 > NEW to GitHub developing status daily :)
 
-### Current Status
-I am currently available for employment. 4th year student accepting a B.A. in Experimental Psychology at the end of the 2022 spring term. Currently working a flexible job at Amazon in Stockton, CA. Possibility of wide open a schedule with 2 weeks of advanced notice.
+### Current Status 
+I am currently available for employment. 4th year student accepting a B.A. in Experimental Psychology at the end of the 2022 spring term. Currently working a flexible job at Amazon in Stockton, CA. Possibility of wide open a schedule with 2 weeks of advanced notice. :innocent:
 
 # **Curriculum Vitae**- *Quantitative Researcher*
 Doscovering a passion that combined my *love for numbers, curiosity, and results* was a dream to reality. Actively looking to fulfil this dream through a *Data Science* related role (***Data Analytics, Research Analyst, Quantitative Science, Digital Marketing Coordinator***). I hope to add value to a group working towards the same goal ASAP.
@@ -38,12 +38,20 @@ Doscovering a passion that combined my *love for numbers, curiosity, and results
   
   ## Education :school:
   ### California State University, Stanislaus. Turlock, CA.
+  -***2020-2022***
+  
     Program Experience: Python, SPSS, Qualtrics
-    Quantative Analysis Tests:
+    Significance Analysis Tests: Independent Samples T-Test, Pearson's Correlation Coefficient, Regression,
+    Two-Way ANOVA, Turkey Post Hoc
+    IRB Certified Research Experiments: 3
+    IRB Certified Research Proposals: 2
   
   ### Modesto Junior College. Modesto, CA.
+  -***2018-2020***
+  
     Program Experience: SPSS, Qualtrics, 
-    Quantitative Analysis Tests:
+    Significance Analysis Tests: One-Way ANOVA, T-Tests (One-Sample, Independent-Samples, Paired-Samples)
+    IRB Certified Research Experiments: 1
   
 ## Job Experience
 
