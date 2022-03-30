@@ -17,12 +17,12 @@ I am ***Currently Available For Employment***. Accepting **B.A. in Experimental 
 - ***Smart Investments***
 
 ## Passions :cupid:
-   - Blockchain Technology
-      - In love and curious about the furture of blockchain use across the world. Daily user of blockchain technology as well as a daily consumer of cryptocurrency media. Extensive knowledge of network protocols, tokenomics, exchanges, CBDCs, stablecoins, and gas fees.
-   - Health & Fitness
-      - I am a huge believer in "Health is Wealth" and "You Are What You Eat". Living a healthy lifestyle doesn't have to be a challenge, it can be made fun. I think everyone can live a happier life if they can live a healthier one. I would love to positively change the health of others with Research Methods and Data Science.
-   - Entertainment
-      - Since a child I've been immersed in the entertainment industry, from TV shows and Gaming, to Social Media and YouTube. I've always found myself looking for a full understanding of what's going on. I would take the time to look through settings to learn more and cause I'd be curious.
+   - **Blockchain Technology**
+      - Curious and in love and  about the future of blockchain use across the world. Daily user of blockchain technology as well as a daily consumer of cryptocurrency media. Extensive knowledge of ***network protocols, tokenomics, wallets, exchanges, CBDCs, stablecoins, and gas fees***.
+   - **Health & Fitness**
+      - Huge believer in "***Health is Wealth***" and "***You Are What You Eat***". A healthy lifestyle doesn't have to be a challenge it could be fun. I think everyone can live a happier life if they can live a healthier one. I would love to ***positively change*** the health of ***others*** with ***Research Methods and Data Science***.
+   - **Entertainment**
+      - Since a child I've been immersed in the entertainment industry, from TV shows and Gaming, to Social Media and YouTube. Extensive use of many social applications (***Facebook, Reddit, Discord, Instagram, Twitter***) I've always found myself looking for a full understanding of what's going on. I would take the time to look through settings to learn more and cause I'd be curious.
       
 ## Contact Info :mailbox:
 
