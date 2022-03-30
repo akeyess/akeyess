@@ -32,5 +32,5 @@ Email: andrewkeyes2@gmail.com     Phone: 209-996-4116
    - [Personal Portfolio Site](https://andrewkeyes2.wixsite.com/andrewkeyes)
    - [Linkedin Account](https://www.linkedin.com/in/andrew-keyes-3a0091226/)
 
-[![Linkedin](https://raw.githubusercontent.com/akeyess/akeyess/main/Linkedin-logo-on-transparent-Background-PNG-.png)](https://www.linkedin.com/in/andrew-keyes-3a0091226/)
+[![Linkedin](https://raw.githubusercontent.com/akeyess/akeyess/main/LinkedIn.Logo.png)](https://www.linkedin.com/in/andrew-keyes-3a0091226/)
 
