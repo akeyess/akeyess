@@ -29,7 +29,7 @@ I am ***Currently Available For Employment***. Accepting **B.A. in Experimental 
 ```
 Email: andrewkeyes2@gmail.com     Phone: 209-996-4116
 ```
-[![Personal Portfolio Site]()](https://andrewkeyes2.wixsite.com/andrewkeyes)
+[![Personal Portfolio Site](https://raw.githubusercontent.com/akeyess/akeyess/main/AccountPic.png)](https://andrewkeyes2.wixsite.com/andrewkeyes)
 
 [![Linkedin](https://raw.githubusercontent.com/akeyess/akeyess/main/LinkedInLogo.png)](https://www.linkedin.com/in/andrew-keyes-3a0091226/)
 
