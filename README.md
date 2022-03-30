@@ -1,5 +1,5 @@
 ## :wave: Hello!
-My name is ***Andrew Keyes***. Here's some info ABOUTME. Find more on Skills and Projects in my [GitHub Cirriculum Vitae/ Resume](https://github.com/akeyess/Cirriculum_Vitae) Thank you so much for your time! 
+My name is ***Andrew Keyes***. Here's some info ABOUTME. Find more about specific Skills in Projects on my [GitHub Cirriculum Vitae/ Resume](https://github.com/akeyess/Cirriculum_Vitae) Thank you so much for your time! 
 
 I'm a **Developed researcher** pursuing an *Internship Role* or *Junior/ Entry-Level Position* as a ***Quantitative Analyst, Market/ User Researcher, Data Scientist, or Problem Solver***. 
 
@@ -12,17 +12,17 @@ I am ***Currently Available For Employment***. Accepting **B.A. in Experimental 
 
 - Secure a ***Summer Internship/ Entry-Level Position***
 - Finish ***First Personal Project***, then Start Second
-- ***Python*** Workable Knowledge Expansion 
+- Expand ***Python*** Workable Knowledge 
 - Grow My Own ***Running Club***
 - ***Smart Investments***
 
 ## Passions :cupid:
    - Blockchain Technology
       - In love and curious about the furture of blockchain use across the world. Daily user of blockchain technology as well as a daily consumer of cryptocurrency media. Extensive knowledge of network protocols, tokenomics, exchanges, CBDCs, stablecoins, and gas fees.
-   - Health
-      - I am a huge believer in "Health is Wealth" and "You are what you eat". Living a healthy lifestyle does not have to be a challenge, you can make it fun. I think everyone can live a happier life if they can live a healthier one. I would love to positively impact the health of others using research methods and data science.
+   - Health & Fitness
+      - I am a huge believer in "Health is Wealth" and "You Are What You Eat". Living a healthy lifestyle doesn't have to be a challenge, it can be made fun. I think everyone can live a happier life if they can live a healthier one. I would love to positively change the health of others with Research Methods and Data Science.
    - Entertainment
-      - Since a child I've been immersed in the entertainment industry, from TV shows and Gaming, to Social Media and YouTube. I've always found myself looking for a full understanding of what's going on. I would take the time to look through settings just cause I'd be curious.
+      - Since a child I've been immersed in the entertainment industry, from TV shows and Gaming, to Social Media and YouTube. I've always found myself looking for a full understanding of what's going on. I would take the time to look through settings to learn more and cause I'd be curious.
       
 ## Contact Info :mailbox:
 
