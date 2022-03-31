@@ -18,7 +18,7 @@ I am ***Currently Available For Employment***. Accepting **B.A. in Experimental 
 
 ## Some Passions :cupid:
    - **Blockchain Technology**
-      - Curious and in love and  about the future of blockchain use across the world. Daily user of blockchain technology as well as a daily consumer of cryptocurrency media. Extensive knowledge of ***network protocols, tokenomics, wallets, exchanges, CBDCs, stablecoins, and gas fees***.
+      - Curious and in love and  about the future of blockchain use across the world. Daily user of blockchain technology as well as a daily consumer of cryptocurrency media. Extensive knowledge of ***network protocols, tokenomics, wallets, exchanges, CBDCs, stablecoins, and gas fees***. Conducted crypto research on a topic personally relatable, [crypto mining](https://github.com/akeyess/Eth_Mining_Research_Report)
    - **Health & Fitness**
       - Huge believer in "***Health is Wealth***" and "***You Are What You Eat***". A healthy lifestyle doesn't have to be a challenge it could be fun. I think everyone can live a happier life if they can live a healthier one. I would love to ***positively change*** the health of ***others*** with ***Research Methods and Data Science***.
    - **Entertainment**
