@@ -14,7 +14,7 @@ I am ***Currently Available For Employment***. Accepting **B.A. in Experimental 
 - Finish ***First Personal Project***, then Start Second
 - Expand ***Python*** Workable Knowledge 
 - Grow My Own ***Running Club***
-- ***Smart Investments***
+- Continue ***Smart Investments***
 
 ## Some Passions :cupid:
    - **Blockchain Technology**
