@@ -16,7 +16,7 @@ I am ***Currently Available For Employment***. Accepting **B.A. in Experimental 
 - Grow My Own ***Running Club***
 - ***Smart Investments***
 
-## Passions :cupid:
+## Some Passions :cupid:
    - **Blockchain Technology**
       - Curious and in love and  about the future of blockchain use across the world. Daily user of blockchain technology as well as a daily consumer of cryptocurrency media. Extensive knowledge of ***network protocols, tokenomics, wallets, exchanges, CBDCs, stablecoins, and gas fees***.
    - **Health & Fitness**
