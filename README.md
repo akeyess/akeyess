@@ -1,12 +1,12 @@
 ## :wave: Hello!
-My name is ***Andrew Keyes***. Here's some info ABOUTME. Find more Specific Skills in Projects on my [GitHub Cirriculum Vitae](https://github.com/akeyess/Cirriculum_Vitae) Thank you so much for your time! 
+My name is ***Andrew Keyes***. Here's some info ABOUTME. Find more Specific Skills in Projects on my [GitHub Cirriculum Vitae](https://github.com/akeyess/Cirriculum_Vitae). Thank you so much for your time! 
 
 I'm a **Developed researcher** pursuing an *Internship Role* or *Junior/ Entry-Level Position* as a ***Quantitative Analyst, Market/ User Researcher, Data Scientist, or Problem Solver***. 
 
 > NEW to GitHub developing status daily :)
 
 ## Current Status
-I am ***Currently Available For Employment***. Accepting a **B.A. in Experimental Psychology** end of 2022 Spring term. I work at a flexible job right now, availability is up to me. A wide open schedule is possible, if necessary, with *2 weeks advanced notice*. :innocent:
+I am ***Currently Available For Employment***. Accepting a **B.A. in Experimental Psychology** at the end of the 2022 Spring term. I work at a job with flexible hours right now, availability is within my control. A wide open schedule is possible, if necessary, given *2 weeks advanced notice*. :innocent:
 
 ## What I'm Focused On :mag_right:
 
@@ -18,7 +18,7 @@ I am ***Currently Available For Employment***. Accepting a **B.A. in Experimenta
 
 ## Some Passions :cupid:
    - **Blockchain Technology**
-      - Curious and in love and  about the future of blockchain use across the world. Daily user of blockchain technology as well as a daily consumer of cryptocurrency media. Extensive knowledge of ***network protocols, tokenomics, wallets, exchanges, CBDCs, stablecoins, and gas fees***. Conducted [blockchain research on crypto mining](https://github.com/akeyess/Eth_Mining_Research_Report), a personal and interesting topic to me. 
+      - Curious and in love and  about the future of blockchain use across the world. Daily user of blockchain technology as well as a daily consumer of cryptocurrency media. Extensive knowledge of ***network protocols, tokenomics, wallets, exchanges, CBDCs, stablecoins, and gas fees***. Conducted [blockchain research on crypto mining](https://github.com/akeyess/Eth_Mining_Research_Report), a personal passion of mine which I take great interest in. 
    - **Health & Fitness**
       - Huge believer in "***Health is Wealth***" and "***You Are What You Eat***". A healthy lifestyle doesn't have to be a challenge it could be fun. I think everyone can live a happier life if they can live a healthier one. I would love to ***positively change*** the health of ***others*** with ***Research Methods and Data Science***.
    - **Entertainment**
