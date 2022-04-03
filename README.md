@@ -6,7 +6,7 @@ I'm a **Developed researcher** pursuing an *Internship Role* or *Junior/ Entry-L
 > NEW to GitHub developing status daily :)
 
 ## Current Status
-I am ***Currently Available For Employment***. Accepting a **B.A. in Experimental Psychology** end of 2022 Spring term. I work at a flexible job right now, availability is up to me. Wide open a schedule possible with *2 weeks advanced notice*. :innocent:
+I am ***Currently Available For Employment***. Accepting a **B.A. in Experimental Psychology** end of 2022 Spring term. I work at a flexible job right now, availability is up to me. A wide open schedule is possible, if necessary, with *2 weeks advanced notice*. :innocent:
 
 ## What I'm Focused On :mag_right:
 
