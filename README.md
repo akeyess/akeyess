@@ -1,5 +1,5 @@
 ## :wave: Hello!
-My name is ***Andrew Keyes***. Here's some info ABOUTME. Find Specific Skills in Projects on my [GitHub Cirriculum Vitae/ Resume](https://github.com/akeyess/Cirriculum_Vitae) Thank you so much for your time! 
+My name is ***Andrew Keyes***. Here's some info ABOUTME. Find more Specific Skills in Projects on my [GitHub Cirriculum Vitae/ Resume](https://github.com/akeyess/Cirriculum_Vitae) Thank you so much for your time! 
 
 I'm a **Developed researcher** pursuing an *Internship Role* or *Junior/ Entry-Level Position* as a ***Quantitative Analyst, Market/ User Researcher, Data Scientist, or Problem Solver***. 
 
