@@ -18,11 +18,11 @@ I am ***Currently Available For Employment***. Accepting a **B.A. in Experimenta
 
 ## Some Passions :cupid:
    - **Blockchain Technology**
-      - Curious and in love and  about the future of blockchain use across the world. I'm a daily user of blockchain technology as well as a daily consumer of cryptocurrency media. Extensive knowledge of ***network protocols, tokenomics, wallets, exchanges, CBDCs, stablecoins, and gas fees***. Conducted [blockchain research on crypto mining](https://github.com/akeyess/Eth_Mining_Research_Report), a personal passion of mine which I wanted to learn more about. 
+      - Curious and in love and  about the *future of blockchain use across the world*. I'm a daily user of blockchain technology as well as a daily consumer of cryptocurrency media. Extensive knowledge of ***network protocols, tokenomics, wallets, exchanges, CBDCs, stablecoins, and gas fees***. Conducted [blockchain research on crypto mining](https://github.com/akeyess/Eth_Mining_Research_Report), a personal passion of mine which I love to learn more about. 
    - **Health & Fitness**
-      - Huge believer in "***Health is Wealth***" and "***You Are What You Eat***". A healthy lifestyle doesn't have to be a challenge or a chore. I think everyone can live a happier life if they can live a healthier one. I would love to ***positively change*** the health of ***others*** with ***Research Methods and Data Science***.
+      - Huge believer in "***Health is Wealth***" and "***You Are What You Eat***". A *healthy lifestyle doesn't have to be a challenge*, it could be fun and exciting. I think everyone can live a happier life if they can live a healthier one. I would love to ***positively change*** the health of ***others*** with ***Research Methods and Data Science***.
    - **Entertainment**
-      - Since a child I've been immersed in the entertainment industry, from TV shows and Gaming, to Social Media and YouTube. Extensive use of many social applications (***Facebook, Reddit, Discord, Instagram, Twitter***) I've always found myself looking to play strategy games and use strategy in online games, this hones in on my ***Common-Sense, Creative, and Problem Solving capabilities***.
+      - Since a child I've been immersed in the entertainment industry, from *TV shows and Gaming, to Social Media and YouTube*. Extensive use of many social applications (***Facebook, Reddit, Discord, Instagram, Twitter***) I've always found myself looking to play strategy games and use strategy in online games, this hones in on my ***Common-Sense, Creative, and Problem Solving capabilities***.
       
 ## Contact Info :mailbox:
 
