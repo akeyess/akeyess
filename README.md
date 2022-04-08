@@ -34,4 +34,4 @@ Email: andrewkeyes2@gmail.com     Phone: 209-996-4116
 
 **Curriculum Vitae**  |          **Portfolio Site**          |  **LinkedIn**
 :-------------------------:|:-------------------------:|:-------------------------:
-[![CV](https://raw.githubusercontent.com/akeyess/akeyess/main/cv.jpg)](https://github.com/akeyess/Cirriculum_Vitae) | [![Personal Portfolio Site](https://raw.githubusercontent.com/akeyess/akeyess/main/profile.jpg)](https://andrewkeyes2.wixsite.com/andrewkeyes) |  [![Linkedin](https://raw.githubusercontent.com/akeyess/akeyess/main/linkedin.edit.jpg)](https://www.linkedin.com/in/andrew-keyes-3a0091226/)
+[![CV](https://raw.githubusercontent.com/akeyess/akeyess/main/cv.edit.jpg)](https://github.com/akeyess/Cirriculum_Vitae) | [![Personal Portfolio Site](https://raw.githubusercontent.com/akeyess/akeyess/main/profile.jpg)](https://andrewkeyes2.wixsite.com/andrewkeyes) |  [![Linkedin](https://raw.githubusercontent.com/akeyess/akeyess/main/linkedin.edit.jpg)](https://www.linkedin.com/in/andrew-keyes-3a0091226/)
