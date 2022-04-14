@@ -3,8 +3,6 @@ My name is ***Andrew Keyes***. Here's some info ABOUTME. Find more info about sp
 
 I'm a **Developed Researcher** pursuing an *Internship Role* or *Junior/ Entry-Level Position* as a ***Quantitative Analyst, Market/ User Researcher, Data Scientist, or Problem Solver***. 
 
-> NEW to GitHub developing status daily :)
-
 ## Current Status
 I am ***Currently Available For Employment***. Accepting a **B.A. in Experimental Psychology** at the end of the 2022 Spring term. I work at a job with flexible hours so availability is within my control right now. A wide open schedule is possible if necessary, given *2 weeks advanced notice*. :innocent:
 
