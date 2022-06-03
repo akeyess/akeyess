@@ -9,7 +9,7 @@ I am ***Currently Available For Employment***. Accepting a **B.A. in Experimenta
 ## What I'm Focused On :mag_right:
 
 - Secure a ***Summer Internship/ Entry-Level Position***
-- Starting Second ***Personal Research Report***
+- Start Second ***Personal Research Report***
 - Expand Workable ***Python*** Knowledge 
 - Grow My Own ***Running Club***
 - Make ***Smart Investments***
