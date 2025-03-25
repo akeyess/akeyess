@@ -21,10 +21,8 @@ I am ***Available For Immediate Employment***. I recently attained a **B.A. in E
       - Huge believer in the quotes "***Health is Wealth***" and "***You Are What You Eat***". A *healthy lifestyle doesn't have to be a challenge*, it could be fun and exciting. I think everyone can live a happier life if they can live a healthier one. I would love to ***positively impact*** the health of ***others*** using ***Research Methods and Data Science***.
    - **Entertainment**
       - Since a child I've been immersed in the entertainment industry, from *TV shows, Movies, and Gaming, to Social Media, Music, and YouTube*. Extensive experience with across multiple social applications (***Facebook, Reddit, Discord, Instagram, Twitter***). I've always found myself looking to play strategy games and use strategy in online games, honing in on ***Problem Solving, Curiosity, Creativity, and Common-Sense abilities***.
+
       
-
-```
-
 ## Links 🔗
 
 **Curriculum Vitae**  |          **Portfolio Site**          |  **LinkedIn**
