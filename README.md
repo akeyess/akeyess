@@ -22,10 +22,7 @@ I am ***Available For Immediate Employment***. I recently attained a **B.A. in E
    - **Entertainment**
       - Since a child I've been immersed in the entertainment industry, from *TV shows, Movies, and Gaming, to Social Media, Music, and YouTube*. Extensive experience with across multiple social applications (***Facebook, Reddit, Discord, Instagram, Twitter***). I've always found myself looking to play strategy games and use strategy in online games, honing in on ***Problem Solving, Curiosity, Creativity, and Common-Sense abilities***.
       
-## Contact Info :mailbox:
 
-```
-Email: andrewkeyes2@gmail.com     Phone: 209-996-4116
 ```
 
 ## Links 🔗
